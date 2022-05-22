@@ -1,0 +1,162 @@
+<vehicles>
+    <vehicle>
+        <id>1</id>
+        <make>BMW</make>
+        <model>Seria 5</model>
+        <model_code>e34</model_code>
+        <production_years>1987 - 1996</production_years>
+        <vin_const>6H482237</vin_const>
+        <engine>N/A</engine>
+        <description>BMW Seria 5 e34</description>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <make>BMW</make>
+        <model>Seria 5</model>
+        <model_code>e39</model_code>
+        <production_years>1995 - 2004</production_years>
+        <vin_const>6L547897</vin_const>
+        <engine>N/A</engine>
+        <description>BMW Seria 5 e39</description>
+    </vehicle>
+    <vehicle>
+        <id>3</id>
+        <make>BMW</make>
+        <model>Seria 5</model>
+        <model_code>e60</model_code>
+        <production_years>2003 - 2010</production_years>
+        <vin_const>DJ118935</vin_const>
+        <engine>N/A</engine>
+        <description>BMW Seria 5 e60</description>
+    </vehicle>
+    <vehicle>
+        <id>4</id>
+        <make>BMW</make>
+        <model>Seria 7</model>
+        <model_code>e32</model_code>
+        <production_years>1986 - 1994</production_years>
+        <vin_const>FU033590</vin_const>
+        <engine>N/A</engine>
+        <description>BMW Seria 7 e32</description>
+    </vehicle>
+    <vehicle>
+        <id>5</id>
+        <make>BMW</make>
+        <model>Seria 7</model>
+        <model_code>e38</model_code>
+        <production_years>1994 - 2001</production_years>
+        <vin_const>7R623034</vin_const>
+        <engine>N/A</engine>
+        <description>BMW Seria 7 e38</description>
+    </vehicle>
+    <vehicle>
+        <id>6</id>
+        <make>BMW</make>
+        <model>Seria 7</model>
+        <model_code>e65</model_code>
+        <production_years>2001 - 2008</production_years>
+        <vin_const>8N160166</vin_const>
+        <engine>N/A</engine>
+        <description>BMW Seria 7 e65</description>
+    </vehicle>
+    <vehicle>
+        <id>7</id>
+        <make>AUDI</make>
+        <model>A4</model>
+        <model_code>B8</model_code>
+        <production_years>2007 - 2005</production_years>
+        <vin_const>EH135110</vin_const>
+        <engine>N/A</engine>
+        <description>AUDI A4 B8</description>
+    </vehicle>
+    <vehicle>
+        <id>8</id>
+        <make>AUDI</make>
+        <model>A6</model>
+        <model_code>C4</model_code>
+        <production_years>1994 - 1997</production_years>
+        <vin_const>D7579091</vin_const>
+        <engine>N/A</engine>
+        <description>AUDI A6 C4</description>
+    </vehicle>
+    <vehicle>
+        <id>9</id>
+        <make>AUDI</make>
+        <model>A5</model>
+        <model_code>8T</model_code>
+        <production_years>2007 - 2016</production_years>
+        <vin_const>F4185911</vin_const>
+        <engine>N/A</engine>
+        <description>AUDI A5 8T</description>
+    </vehicle>
+    <vehicle>
+        <id>10</id>
+        <make>AUDI</make>
+        <model>A8</model>
+        <model_code>D3</model_code>
+        <production_years>2002 - 2010</production_years>
+        <vin_const>C3143623</vin_const>
+        <engine>N/A</engine>
+        <description>AUDI A8 D3</description>
+    </vehicle>
+    <vehicle>
+        <id>11</id>
+        <make>AUDI</make>
+        <model>S4</model>
+        <model_code>B5</model_code>
+        <production_years>1995 - 2001</production_years>
+        <vin_const>L7232026</vin_const>
+        <engine>N/A</engine>
+        <description>AUDI S4 B5</description>
+    </vehicle>
+    <vehicle>
+        <id>12</id>
+        <make>MERCEDES-BENZ</make>
+        <model>E Klasa</model>
+        <model_code>W210</model_code>
+        <production_years>1995 - 2002</production_years>
+        <vin_const>CFA57496</vin_const>
+        <engine>N/A</engine>
+        <description>MERCEDES-BENZ E Klasa W210</description>
+    </vehicle>
+    <vehicle>
+        <id>13</id>
+        <make>MERCEDES-BENZ</make>
+        <model>C Klasa</model>
+        <model_code>W202</model_code>
+        <production_years>1993 - 2001</production_years>
+        <vin_const>7R604728</vin_const>
+        <engine>N/A</engine>
+        <description>MERCEDES-BENZ C Klasa W202</description>
+    </vehicle>
+    <vehicle>
+        <id>14</id>
+        <make>MERCEDES-BENZ</make>
+        <model>S Klasa</model>
+        <model_code>W140</model_code>
+        <production_years>1992 - 1998</production_years>
+        <vin_const>D6188945</vin_const>
+        <engine>N/A</engine>
+        <description>MERCEDES-BENZ S Klasa W140</description>
+    </vehicle>
+    <vehicle>
+        <id>15</id>
+        <make>MERCEDES-BENZ</make>
+        <model>G Klasa</model>
+        <model_code>W460</model_code>
+        <production_years>1979 - 1992</production_years>
+        <vin_const>NH455196</vin_const>
+        <engine>N/A</engine>
+        <description>MERCEDES-BENZ G Klasa W460</description>
+    </vehicle>
+    <vehicle>
+        <id>44313998-f042-4e73-b7fa-b5619b3ff06d</id>
+        <make>Fiat</make>
+        <model>Panda</model>
+        <model_code>Panda_2</model_code>
+        <production_years>2003-2005</production_years>
+        <vin_const>IL3252</vin_const>
+        <engine>1.1</engine>
+        <description updated="yes">Just Panda After Update</description>
+    </vehicle>
+</vehicles>

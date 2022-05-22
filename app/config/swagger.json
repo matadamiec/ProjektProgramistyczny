@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "sean",
+    "version": "1.0.0",
+    "title": "Seans-Python3-Flask-Rest-Boilerplate",
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "swagger": "2.0",
+  "paths": {
+    "/getVehicles": {
+      "get": {
+        "tags": [
+          "Get Vehicles"
+        ],
+        "summary": "Returns all vehicles in database",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/findVehicle/vin={vin}": {
+      "get": {
+        "tags": [
+          "Find Vehicle"
+        ],
+        "summary": "Search for the vehicle by vin number",
+        "parameters": [
+        {
+          "in": "path",
+          "name": "vin",
+          "required": true,
+          "description": "Vehicle VIN",
+          "type": "string"
+        }],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  }
+}
